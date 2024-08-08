@@ -1,0 +1,12 @@
+body{
+    background-color:black;
+    color:white;
+  }
+  form{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    /* justify-contet:center; */
+    gap:0.5rem;
+    
+  }
